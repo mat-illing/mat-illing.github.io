@@ -27,7 +27,11 @@ video {
     height: auto;
 }
 
-
+#video {
+    width:100vw;
+    height:100vh;
+    object-fit: cover;
+}
 
 /* For large devices */
 @media screen and (min-width: 1024px) {
