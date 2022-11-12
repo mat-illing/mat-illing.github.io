@@ -44,11 +44,6 @@ video {
     text-align: center;
 }
 
-.scale-up-center {
-	-webkit-animation: scale-up-center 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-	        animation: scale-up-center 5s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-}
-
 .info {
     font-weight: 500;
     font-size: 1.25rem;
