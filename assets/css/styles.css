@@ -1011,6 +1011,12 @@ button {
     background-color: var(--text-color-light);
 }
 
+/*============ COUNTDOWN TIMER ===========*/
+#timer {
+    font-family: var(--body-font);
+    font-size: var(--font-medium);
+}
+
 /*==================== MEDIA QUERIES ====================*/
 /* For small devices */
 @media screen and (max-width: 350px){
