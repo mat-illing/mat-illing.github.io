@@ -1,4 +1,8 @@
 /*============ COUNTDOWN TIMER ===========*/
+body {
+    background-color: #cdffbf;
+}
+
 a#timer {
     pointer-events: none;
     cursor: default;
