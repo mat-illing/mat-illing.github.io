@@ -22,3 +22,15 @@ video {
     width: 100%;
     height: auto;
 }
+
+/* For large devices */
+@media screen and (min-width: 1024px) {
+    html {
+        margin-top: 8px;
+    }
+
+    body {
+        max-width: 1024px;
+        margin: auto;
+    }
+}
