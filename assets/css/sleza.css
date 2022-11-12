@@ -8,3 +8,9 @@ a#timer {
     font-family: var(--body-font);
     font-size: var(--font-medium);
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
