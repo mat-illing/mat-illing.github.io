@@ -41,8 +41,7 @@ video {
 }
 
 .addeventatc {
-    background: hsl(250, 69%, 61%) !important;
-    color: #fff !important;
+    background: hsl(250, 69%, 75%) !important;
 }
 
 /* For large devices */
