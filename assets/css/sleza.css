@@ -25,12 +25,6 @@ video {
     height: auto;
 }
 
-#video {
-    width:100vw;
-    height:100vh;
-    object-fit: cover;
-}
-
 .calendar {
     margin-top: 24px;
     margin-bottom: 24px;
