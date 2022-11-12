@@ -1,0 +1,10 @@
+/*============ COUNTDOWN TIMER ===========*/
+a#timer {
+    pointer-events: none;
+    cursor: default;
+  }
+
+#timer {
+    font-family: var(--body-font);
+    font-size: var(--font-medium);
+}
