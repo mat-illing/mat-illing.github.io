@@ -73,7 +73,7 @@ p.text {
 
 .footer_social {
     margin-inline: 5px;
-    font-size: 2.25rem;
+    font-size: 1.75rem;
     color: #000;
     text-decoration: none;
 }
@@ -98,6 +98,10 @@ p.text {
         font-size: 1.375rem;
         margin-bottom: 50px;
     }
+
+    .footer_social {
+        font-size: 2.25rem;
+    }
 }
 
 /* For small devices */
@@ -105,6 +109,10 @@ p.text {
     .info {
         font-weight: 400;
         font-size: 0.85rem;
+    }
+
+    .footer_social {
+        font-size: 0.75rem;
     }
 
     .rights {
