@@ -9,6 +9,7 @@ a#timer {
     font-size: var(--font-medium);
 }
 
-div {
-    text-align: center;
+img {
+    width: 100%;
+    height: auto;
 }
