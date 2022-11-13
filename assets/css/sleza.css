@@ -64,6 +64,14 @@ p.text {
     font-size: 0.875rem;
 }
 
+.papaj {
+    text-decoration: none;
+}
+
+.papaj:visited {
+    color: #000;
+}
+
 .footer_socials {
     margin-block: 20px;
     display: flex;
@@ -85,7 +93,7 @@ p.text {
 /* For large devices */
 @media screen and (min-width: 1024px) {
     html {
-        margin-top: 8px;
+        margin-top: 20px;
     }
 
     body {
