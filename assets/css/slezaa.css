@@ -66,6 +66,7 @@ p.text {
 
 .papaj {
     text-decoration: none;
+    color: #000;
 }
 
 .papaj:visited {
